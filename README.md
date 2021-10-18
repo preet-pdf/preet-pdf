@@ -1,8 +1,8 @@
 ### Hi there 👋
-[![Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=preet-pdf)]
+![Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=preet-pdf)
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3].
 
 <!-- Icons -->
 
